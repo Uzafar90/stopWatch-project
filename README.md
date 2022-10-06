@@ -10,3 +10,8 @@
 ### Live Demo on Codepen.io:  https://codepen.io/utbaz/pen/OJvOWLj
 
 ### My Codepen profile:  https://codepen.io/utbaz
+
+<hr/>
+
+### License
+[MIT License](LICENSE)
